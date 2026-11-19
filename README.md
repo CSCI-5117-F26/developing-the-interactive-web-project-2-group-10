@@ -10,9 +10,11 @@ CSCI 5117, Fall 2026, [assignment description](https://canvas.umn.edu/courses/57
 
 ### Students
 
-* First Last, x500@umn.edu
+* Jeonghyo Kim, kim02607
+* Kelvin Pang, pang0161
+* Salman Hussein, husse347
+* Xuan Gu, ehrma055
 * Donald Huynh, huynh338@umn.edu
-* ...
 
 
 ## Key Features
@@ -37,8 +39,7 @@ Which (if any) progressive web app feature(s) does your app support?
 **[Add images/photos that show your mockup](https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository) along with a very brief caption:**
 Figma URL: https://www.figma.com/design/dGDN741uqPiwR2stjfaqAN/Project-2?node-id=0-1&p=f&t=Fnax9JvoRUuQDpRU-0
 
-![](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
-
+Here's the landing page for the site. You'll have to log in or sign up to see inside...
 ![](./static/images/Splash%20Page.png)
 ![](./static/images/Homepage.png)
 ![](./static/images/search%20page.png)
