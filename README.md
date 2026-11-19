@@ -47,9 +47,9 @@ Simple search and routing should be available, the difficulty is in figuring whe
 ![](./static/images/search%20page.png)
 ![](./static/images/Routing%20Page.png)  
 A closer look at some buildings should really allow the user to really see the gopher way. Selecting a building should give us more options, allowing us to filter by floor to specifically which section of the gopher way is available to which floor.  
-![](./static/images/Map%20overview.png)
-![](./static/images/Map%20overview%20-%20Selected%20Building.png)
-![](./static/images/Map%20overview%20-%20Selected%20Building%20Floors.png)
+![](./static/images/Map%20overview.png)  
+![](./static/images/Map%20overview%20-%20Selected%20Building.png)  
+![](./static/images/Map%20overview%20-%20Selected%20Building%20Floors.png)  
 ![](./static/images/Map%20overview%20-%20Selected%20Building%20Floor%204.png)  
 Dropped pins should be savable for users. This seems to be a pretty simple feature, and to expand on this we could allow for creating different lists, associating times to pins for class and maybe having push notifications towards that purpose.  
 ![](./static/images/Dropped%20Pin.png)
