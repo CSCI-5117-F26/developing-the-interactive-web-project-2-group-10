@@ -4,13 +4,14 @@ CSCI 5117, Fall 2026, [assignment description](https://canvas.umn.edu/courses/57
 
 ## App Info:
 
-* Team Name: TODO
+* Team Name: Peter Parkers
 * App Name: TODO
 * App Link: <https://TODO.com/>
 
 ### Students
 
 * First Last, x500@umn.edu
+* Donald Huynh, huynh338@umn.edu
 * ...
 
 
@@ -34,9 +35,22 @@ Which (if any) progressive web app feature(s) does your app support?
 ## Mockup images
 
 **[Add images/photos that show your mockup](https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository) along with a very brief caption:**
+Figma URL: https://www.figma.com/design/dGDN741uqPiwR2stjfaqAN/Project-2?node-id=0-1&p=f&t=Fnax9JvoRUuQDpRU-0
 
 ![](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
 
+![](./static/images/Splash%20Page.png)
+![](./static/images/Homepage.png)
+![](./static/images/search%20page.png)
+![](./static/images/Routing%20Page.png)
+![](./static/images/Map%20overview.png)
+![](./static/images/Map%20overview%20-%20Selected%20Building.png)
+![](./static/images/Map%20overview%20-%20Selected%20Building%20Floors.png)
+![](./static/images/Map%20overview%20-%20Selected%20Building%20Floor%204.png)
+![](./static/images/Dropped%20Pin.png)
+![](./static/images/Dropped%20Pin%20-%20Bookmarked.png)
+![](./static/images/Dropped%20Pin%20-%20Saved.png)
+![](./static/images/Dropped%20Pin%20-%20Saved%20Listed.png)
 
 ## Testing Notes
 
