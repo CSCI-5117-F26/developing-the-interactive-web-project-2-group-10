@@ -41,17 +41,17 @@ Figma URL: https://www.figma.com/design/dGDN741uqPiwR2stjfaqAN/Project-2?node-id
 
 Here's the landing page for the site. You'll have to log in or sign up to see inside...
 ![](./static/images/Splash%20Page.png)
-On logging in, the focus should be on the map, this is just a place holder, but by default paths should be visible.
+On logging in, the focus should be on the map, this is just a place holder, but by default paths should be visible.  
 ![](./static/images/Homepage.png)
-Simple search and routing should be available, the difficulty is in figuring when leaving the tunnels are available.
+Simple search and routing should be available, the difficulty is in figuring when leaving the tunnels are available.  
 ![](./static/images/search%20page.png)
 ![](./static/images/Routing%20Page.png)
-A closer look at some buildings should really allow the user to really see the gopher way. Selecting a building should give us more options, allowing us to filter by floor to specifically which section of the gopher way is available to which floor.
+A closer look at some buildings should really allow the user to really see the gopher way. Selecting a building should give us more options, allowing us to filter by floor to specifically which section of the gopher way is available to which floor.  
 ![](./static/images/Map%20overview.png)
 ![](./static/images/Map%20overview%20-%20Selected%20Building.png)
 ![](./static/images/Map%20overview%20-%20Selected%20Building%20Floors.png)
 ![](./static/images/Map%20overview%20-%20Selected%20Building%20Floor%204.png)
-Dropped pins should be savable for users. This seems to be a pretty simple feature, and to expand on this we could allow for creating different lists, associating times to pins for class and maybe having push notifications towards that purpose.
+Dropped pins should be savable for users. This seems to be a pretty simple feature, and to expand on this we could allow for creating different lists, associating times to pins for class and maybe having push notifications towards that purpose.  
 ![](./static/images/Dropped%20Pin.png)
 ![](./static/images/Dropped%20Pin%20-%20Bookmarked.png)
 ![](./static/images/Dropped%20Pin%20-%20Saved.png)
